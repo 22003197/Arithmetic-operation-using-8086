@@ -64,7 +64,9 @@ END
 
 #### Manual Calculations
 
-![ADD MC](![add](https://github.com/user-attachments/assets/38083d79-40c3-457e-9642-2886cdb62b8c))
+![ADD MC]((https://github.com/user-attachments/assets/f69ab50b-4037-4ce2-9b22-897862df212b))
+
+
 
 ---
 
@@ -124,7 +126,7 @@ END
 
 #### Manual Calculations
 
-![SB MC](![sub](https://github.com/user-attachments/assets/34677c72-7986-42fc-a82f-8c869469e447))
+![SB MC](https://github.com/user-attachments/assets/04d347f1-27cc-41b2-8d9c-b1deb96dd8a8)
 
 ---
 
@@ -182,7 +184,7 @@ END
 
 #### Manual Calculations
 
-![MUL MC](![mul](https://github.com/user-attachments/assets/98c2b839-6f6a-47ad-8867-bd9e01adaa92))
+![MUL MC](https://github.com/user-attachments/assets/c4b63b02-71db-4960-8573-543b2aee04a0)
 
 
 
@@ -238,7 +240,7 @@ END
 
 #### Manual Calculations
 
-![DIV MC](![div](https://github.com/user-attachments/assets/d2f140ba-72a6-41bf-bba1-0fb41c7aae8a))
+![DIV MC](https://github.com/user-attachments/assets/8b102010-9d23-4a99-83ed-e8bb833e2e00)
 
 
 
