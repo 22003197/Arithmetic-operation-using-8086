@@ -64,7 +64,7 @@ END
 
 #### Manual Calculations
 
-![ADD MC](![WhatsApp Image 2025-09-02 at 23 58 34](https://github.com/user-attachments/assets/0c902a43-1e7a-42e5-9f14-f962af4f9871))
+![WhatsApp Image 2025-09-02 at 23 58 34](https://github.com/user-attachments/assets/0c902a43-1e7a-42e5-9f14-f962af4f9871)
 
 
 
