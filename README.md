@@ -72,8 +72,9 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-![add code](https://github.com/user-attachments/assets/8b1009d6-bcd6-4345-870b-a5285555975f)
-!![add code output](https://github.com/user-attachments/assets/c7b2332d-06e7-456d-bbf6-672204bd78f1)
+<img width="644" height="430" alt="Screenshot 2025-09-03 113518" src="https://github.com/user-attachments/assets/09d540d8-123e-449e-aa2a-a6661e1396af" />
+
+<img width="634" height="379" alt="Screenshot 2025-09-03 113342" src="https://github.com/user-attachments/assets/466cf339-83d9-412d-9b34-e99f4d4ba6b9" />
 
 
 ## 2. SUBTRACTION
@@ -134,9 +135,9 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-![sub code](https://github.com/user-attachments/assets/46edd6c0-350a-4394-9289-079e25f97dcc)
+<img width="634" height="429" alt="Screenshot 2025-09-03 113636" src="https://github.com/user-attachments/assets/24857e37-0dd8-4992-8908-56ef73745b8b" />
 
-![sub op](https://github.com/user-attachments/assets/7d1ae894-7e0d-4549-a587-3863ad3d24bc)
+<img width="637" height="428" alt="Screenshot 2025-09-03 113800" src="https://github.com/user-attachments/assets/17fbe5ea-2bc9-44cc-90bb-9e8e7a1638f9" />
 
 
 
@@ -193,9 +194,9 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-![mul code](https://github.com/user-attachments/assets/243184fd-6749-4a3e-ad0b-8f111b769c52)
+<img width="635" height="427" alt="Screenshot 2025-09-03 113924" src="https://github.com/user-attachments/assets/324b6d47-c70e-4196-99a4-863c6d3e5f22" />
 
-![mul op](https://github.com/user-attachments/assets/fe7171cf-f669-42b3-a05d-456d2db488af)
+<img width="635" height="427" alt="Screenshot 2025-09-03 114034" src="https://github.com/user-attachments/assets/05cc6092-7a87-4283-bfb8-d9b51995cb10" />
 
 
 
@@ -247,9 +248,9 @@ END
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-![div code](https://github.com/user-attachments/assets/c81c3497-1677-4133-9830-7559712a0230)
+<img width="633" height="428" alt="Screenshot 2025-09-03 114651" src="https://github.com/user-attachments/assets/d8b7f2ce-6a3d-4e82-a025-9dd489b3ce8e" />
 
-![div op](https://github.com/user-attachments/assets/2d53a9e4-fb5e-4585-8307-7d86a5c95154)
+<img width="632" height="428" alt="Screenshot 2025-09-03 114551" src="https://github.com/user-attachments/assets/b1b159c4-3750-4ff7-8586-6db9f1a9f2eb" />
 
 
 
