@@ -84,6 +84,8 @@ END
 <img width="634" height="379" alt="Screenshot 2025-09-03 113342" src="https://github.com/user-attachments/assets/466cf339-83d9-412d-9b34-e99f4d4ba6b9" />
 
 
+
+
 ## 2. SUBTRACTION
 
 #### Algorithm
@@ -96,7 +98,7 @@ END
 
 ## FLOWCHART
 
-<img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
+<img width="578" height="578" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
 #### Program
